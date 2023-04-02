@@ -1,2 +1,2 @@
 # Soundoors
-Soundoors open door
+Rasp + modbus comunication for opening door system
